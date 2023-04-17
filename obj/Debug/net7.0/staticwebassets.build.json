@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k6FGoBCr3+cqMT/6aujtGPveVnsIUORG4GXbspEA2/A=",
+  "Source": "CloudBeatAPI",
+  "BasePath": "_content/CloudBeatAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
